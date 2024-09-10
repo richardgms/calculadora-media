@@ -1,0 +1,9 @@
+main{
+    width: 400px;
+    border: solid black 1px ;
+    text-align: center;
+}
+
+input{
+    display: inline-block;
+}
